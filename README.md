@@ -136,7 +136,7 @@ Below are the **10 models**, applied identically for both direction and emotion 
 Open the notebook:
 
 ```bash
-jupyter notebook Progetto.ipynb
+jupyter notebook implementation.ipynb
 ```
 
 Run all cells to:
