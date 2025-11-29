@@ -14,12 +14,14 @@ The project implements:
 
 ## Repository Structure
 
+```
 main_repository/
 │
 ├── faces.zip
 ├── LICENSE
 ├── Progetto.ipynb
 └── README.md
+```
 
 ---
 
