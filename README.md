@@ -18,8 +18,8 @@ The project implements:
 main_repository/
 │
 ├── faces.zip
+├── implementation.ipynb
 ├── LICENSE
-├── Progetto.ipynb
 └── README.md
 ```
 
