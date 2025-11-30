@@ -168,3 +168,9 @@ The notebook prints:
 - Execution time may be long due to 20 total models (10 for each classification task).
 - Higher hidden layer size tends to increase training time.
 - MLPClassifier requires flattened image input, hence the multiple reshape steps.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
