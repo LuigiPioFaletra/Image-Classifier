@@ -171,6 +171,8 @@ The notebook prints:
 
 ---
 
-### License
+## License
 
-This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
+This project is licensed under the [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0). You may use and run this software as-is for noncommercial purposes; modification, redistribution, and commercial use are not permitted without prior authorization.
+
+For commercial use or an extended license, please contact me: lufaletra@gmail.com
